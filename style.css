@@ -1,0 +1,123 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mainContainer{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid blue;
+    padding: 50px 20px;
+
+}
+
+
+.left{
+    margin-top: 100px;
+    font-size: 22px;
+    font-weight: bold;
+    color: gray;
+    text-align: end;
+}
+
+.left2{
+    font-size: 22px;
+    font-weight: bold;
+    color: gray;
+    text-align: end;
+
+}
+
+.left3{
+    font-size: 22px;
+    font-weight: bold;
+    color: gray;
+    text-align: end;
+    padding-top: 10px;
+
+}
+
+.left4{
+    font-size: 22px;
+    font-weight: bold;
+    color: gray;
+    text-align: end;
+    padding-top: 10px;
+
+
+}
+td{
+    text-align: center;
+}
+
+.head1{
+    margin-left: 40px;
+    font-size: 35px;
+    font-weight: bolder;
+    color: white;
+    background-color: orange;
+    padding: 20px 70px;
+    
+
+}
+
+.head2{
+    margin-left: 200px;
+    font-size: 35px;
+    font-weight: bolder;
+    color: white;
+    background-color: green;
+    padding: 20px 70px;
+
+
+    
+
+}
+
+.head3{
+    margin-left: 200px;
+    font-size: 35px;
+    font-weight: bolder;
+    color: white;
+    background-color: purple;
+    padding: 20px 70px;
+
+}
+
+.tr2 td{
+    background-color: rgba(255, 166, 0, 0.644);
+    font-size: 30px;
+    font-weight: bolder;
+    color: yellow;
+    padding: 10px 0;
+}
+
+
+.tr3 td{
+    background-color:rgba(0, 128, 128, 0.897);
+    font-size: 30px;
+    font-weight: bolder;
+    color: yellow;
+    padding: 10px 0;
+
+}
+
+
+.tr4 td{
+    background-color: rgba(128, 0, 128, 0.897);
+    font-size: 30px;
+    font-weight: bolder;
+    color: yellow;
+    padding: 10px 0;
+
+}
+
+
+.tr5 td{
+    background-color: rgba(0, 128, 0, 0.856);
+    font-size: 30px;
+    font-weight: bolder;
+    color: yellow;
+    padding: 10px 0;
+
+}
+
